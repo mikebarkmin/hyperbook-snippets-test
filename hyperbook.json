@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "license": "cc0",
+  "basePath": "hyperbook-snippets-test",
   "author": {
     "name": "",
     "url": ""
